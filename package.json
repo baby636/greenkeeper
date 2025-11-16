@@ -15,7 +15,7 @@
     "greenkeeper-monorepo-definitions": "^1.19.1",
     "hot-shots": "^5.0.0",
     "joi": "^14.0.0",
-    "js-yaml": "^3.7.0",
+    "js-yaml": "^4.1.1",
     "json-in-place": "^1.0.1",
     "jsonwebtoken": "^8.1.1",
     "lodash": "^4.17.10",
@@ -40,7 +40,7 @@
     "yml-in-place": "^1.0.2"
   },
   "devDependencies": {
-    "jest": "^22.4.2",
+    "jest": "^24.0.0",
     "lolex": "^4.0.1",
     "nock": "^10.0.0",
     "prettier-standard-formatter": "^0.222222222222222.333333333333333",
